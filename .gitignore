@@ -1,0 +1,11 @@
+# Ignore everything by default
+*
+
+# Keep this ignore file tracked
+!.gitignore
+!README.md
+
+# Allow deploy artifacts
+!jobTracker.html
+!joblledger-backup-2026-05-18.json
+!logo.ico
